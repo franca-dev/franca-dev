@@ -1,4 +1,10 @@
-## Olá, eu sou o Dio! 👋
+## You were expecting a introduction
+
+<a class="navbar-brand" href="#">
+                    <img src="https://images.gamebanana.com/img/ico/sprays/5c1df5bcd220a.png" alt="Logo">
+                </a>
+
+## BUT IT'S ME DIO!
 
 - Este é meu perfil para estudos e testes.
 
