@@ -1,8 +1,6 @@
 ## You were expecting a introduction
 
-<a class="navbar-brand" href="#">
-                    <img src="https://images.gamebanana.com/img/ico/sprays/5c1df5bcd220a.png" alt="Logo">
-                </a>
+<a class="navbar-brand" href="#"><img src="https://images.gamebanana.com/img/ico/sprays/5c1df5bcd220a.png" alt="Logo"></a>
 
 ## BUT IT'S ME DIO!
 
